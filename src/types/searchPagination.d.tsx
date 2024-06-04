@@ -1,0 +1,1 @@
+export type OnPageChange = (newPage: number) => void

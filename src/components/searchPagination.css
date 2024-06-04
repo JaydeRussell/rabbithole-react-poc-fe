@@ -1,0 +1,7 @@
+.pagination {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(2.9em, 1fr));
+}
+.page {
+    width: 3em;
+}
